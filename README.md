@@ -48,8 +48,6 @@ This study emphasizes the importance of continuous improvement and testing of al
 
 **Datasets**
 
-### Dataset link : https://www.cs.cmu.edu/enron/
-
-### Dataset link : https://www.kaggle.com/datasets/llabhishekll/fraud-email-dataset?resource=download
+### Dataset link : https://www.cs.cmu.edu/enron/ and  https://www.kaggle.com/datasets/llabhishekll/fraud-email-dataset?resource=download
 
 
