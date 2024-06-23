@@ -49,5 +49,5 @@ This study emphasizes the importance of continuous improvement and testing of al
 **Datasets**
 The datasets can be downloaded from the following links:
 •	Enron Corporation dataset
-•	Kaggle Fraudulent Email Corpus
 
+•	Kaggle Fraudulent Email Corpus
