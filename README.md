@@ -44,11 +44,12 @@ o	**Support Vector Machine (SVM)** had the best predictive performance with the 
 The study demonstrates the practical implications of utilizing machine learning algorithms and appropriate sampling techniques to detect and prevent fraudulent emails. The findings highlight that employing advanced models like SVM, along with effective sampling methods like SMOTEENN, can significantly enhance the detection of fraudulent emails and help organizations avoid financial losses.
 
 **Conclusion**
-This study emphasizes the importance of continuous improvement and testing of algorithms to ensure they remain effective in detecting evolving types of fraudulent emails. By integrating both lexicon-based and machine learning approaches, organizations can achieve a more robust and accurate sentiment analysis system, leading to better fraud prevention strategies.
+This study emphasizes the importance of continuous improvement and testing of algorithms to ensure they remain effective in detecting evolving types of fraudulent emails. By integrating both lexicon-based and machine-learning approaches, organizations can achieve a more robust and accurate sentiment analysis system, leading to better fraud prevention strategies.
 
 **Datasets**
-The datasets can be downloaded from the following links:
 
-###Enron Corporation dataset
+### Dataset link : https://www.cs.cmu.edu/enron/
 
-###Kaggle Fraudulent Email Corpus
+### Dataset link : https://www.kaggle.com/datasets/llabhishekll/fraud-email-dataset?resource=download
+
+
