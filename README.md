@@ -22,7 +22,9 @@ o	A total of 14,472 emails were used, extracted from the Enron Corporation datas
 o	Techniques such as stop word removal and stemming were applied to facilitate analysis.
 
 4.	**Sentiment Analysis Approaches:**
+5.	
 o	**Lexicon-based Approach**: Classifies emails into negative, neutral, and positive sentiments.
+
 o	**Machine Learning Models:** Four models were compared based on performance metrics:
 
 	Random Forest
