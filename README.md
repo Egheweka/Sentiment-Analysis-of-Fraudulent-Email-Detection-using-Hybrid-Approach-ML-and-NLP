@@ -24,15 +24,19 @@ o	Techniques such as stop word removal and stemming were applied to facilitate a
 4.	**Sentiment Analysis Approaches:**
 o	**Lexicon-based Approach**: Classifies emails into negative, neutral, and positive sentiments.
 o	**Machine Learning Models:** Four models were compared based on performance metrics:
+
 	Random Forest
+
 	K-Nearest Neighbors (KNN)
+
 	Support Vector Machine (SVM)
+
 	Logistic Regression
 
-5.	**Performance Metrics:**
+6.	**Performance Metrics:**
 o	Models were evaluated based on precision, recall, F1-score, and accuracy.
 
-6.	**Sampling Techniques:**
+7.	**Sampling Techniques:**
 o	Different sampling techniques were tested, with the SMOTEENN technique producing the best results.
 
 **Results**
