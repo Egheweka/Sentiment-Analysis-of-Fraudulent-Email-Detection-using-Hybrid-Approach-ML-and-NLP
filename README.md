@@ -15,13 +15,13 @@ The primary aim of this study is to perform sentiment analysis on fraudulent ema
 
 **Methodology**
 
-1.	**Data Collection:**
+**Data Collection:**
 o	A total of 14,472 emails were used, extracted from the Enron Corporation dataset and Kaggle dataset.
 
-	**Data Preprocessing:**
+**Data Preprocessing:**
 o	Techniques such as stop word removal and stemming were applied to facilitate analysis.
 
-4.	**Sentiment Analysis Approaches:**
+**Sentiment Analysis Approaches:**
 5.	
 o	**Lexicon-based Approach**: Classifies emails into negative, neutral, and positive sentiments.
 
@@ -35,10 +35,10 @@ o	**Machine Learning Models:** Four models were compared based on performance me
 
 	Logistic Regression
 
-6.	**Performance Metrics:**
+**Performance Metrics:**
 o	Models were evaluated based on precision, recall, F1-score, and accuracy.
 
-7.	**Sampling Techniques:**
+**Sampling Techniques:**
 o	Different sampling techniques were tested, with the SMOTEENN technique producing the best results.
 
 **Results**
