@@ -36,10 +36,12 @@ o	**Machine Learning Models:** Four models were compared based on performance me
 	Logistic Regression
 
 **Performance Metrics:**
-o	Models were evaluated based on precision, recall, F1-score, and accuracy.
+
+Models were evaluated based on precision, recall, F1-score, and accuracy.
 
 **Sampling Techniques:**
-o	Different sampling techniques were tested, with the SMOTEENN technique producing the best results.
+
+Different sampling techniques were tested, with the SMOTEENN technique producing the best results.
 
 **Results**
 
